@@ -10,7 +10,7 @@
 
 title: Coder Tập Sự                          # the main title
 
-tagline: A text-focused Jekyll theme.  # it will display as the sub-title
+tagline: Bờ lóc gơ mới vào nghề  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Blog của Hoàng
@@ -23,19 +23,14 @@ author: Nguyễn Tiến Hoàng                  # change to your full name
 avatar: /assets/img/sample/avatar.jpg   # support internet resources
 
 github:
-  username: hoangnt             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
+  username: hoangnt2601             # change to your github username
 
 social:
   name: Nguyễn Tiến Hoàng                  # it will shows as the copyright owner in Footer
   email: hoangnt2601@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    # - https://twitter.com/username      # change to your twitter homepage
     - https://github.com/hoangnt2601       # change to your github homepage
-    # Uncomment below to add more social links
     - https://www.facebook.com/hoangnt.tlu
     - https://www.linkedin.com/in/hoang-nguyen-74995912b
 
@@ -63,7 +58,7 @@ google_analytics:
     cache: false  # pv data local cache, good for the users from GFW area.
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
+  comments: true  # boolean type, the global switch for posts comments.
   shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 
@@ -76,7 +71,7 @@ disqus:
 #
 #     dark   - Use the dark color scheme
 #
-theme_mode: dual
+theme_mode: light
 
 # boolean type, global switch for ToC in posts.
 toc: true
